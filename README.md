@@ -16,9 +16,9 @@
 <img height="50" src="https://skillicons.dev/icons?i=java"> <img height="50" src="https://skillicons.dev/icons?i=cpp"> <img height="50" src="https://skillicons.dev/icons?i=python"> <img height="50" src="https://skillicons.dev/icons?i=javascript"> <img height="50" src="https://skillicons.dev/icons?i=php">
 
 ### Frameworks & Libraries
-<img height="50" src="https://skillicons.dev/icons?i=laravel"> <img height="50" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap">
+<img height="50" src="https://skillicons.dev/icons?i=laravel">  <img height="50" src="https://skillicons.dev/icons?i=flutter"/><img height="50" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap">
 <br>
-<img height="50" src="https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png" alt="JavaFX">&nbsp;&nbsp;&nbsp; <img height="40" src="https://raw.githubusercontent.com/flet-dev/flet/refs/heads/main/media/logo/flet-logo.svg" alt="Flet">&nbsp;&nbsp;&nbsp; <img height="60" src="https://raw.githubusercontent.com/kmajhi/java-swing/main/java%20swing.png" alt="Java JSwing"> 
+<img height="50" src="https://raw.githubusercontent.com/kmajhi/java-swing/main/java%20swing.png" alt="Java JSwing">  <img height="50" src="https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png" alt="JavaFX">&nbsp;&nbsp;&nbsp; <img height="40" src="https://raw.githubusercontent.com/flet-dev/flet/refs/heads/main/media/logo/flet-logo.svg" alt="Flet">&nbsp;&nbsp;&nbsp; 
 
 
 ### Databases
